@@ -26,7 +26,7 @@ For prompts that are generic (not themed) use IDs containing 10 numbers. File na
 
 Do not edit existing files. Just create another one by choosing the fist free ID number, instead.
 
-For thematic files, you cann add to exieting thematic file and there is free rows. If there is no room, create file with same name just add number suffix.
+For thematic files, you cann add to existing thematic file and there is free rows. If there is no room, create file with same name just add number suffix.
 
 
 ## Copyright (absence of)
