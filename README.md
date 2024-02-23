@@ -1,4 +1,4 @@
-# Serbian (српски) prompts Piper Recording Studio
+# Serbian (српски) prompts for Piper Recording Studio
 
 As there were no definitions for Serbian language for Piper Recording Studio I created this repository with intention to collect as much prompts as possible.
 
