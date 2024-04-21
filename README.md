@@ -6,6 +6,10 @@ I hope this will help making Piper Voice AI files in Serbian language.
 
 Feel free to join!
 
+If you are asking why this is not part of Piper Recording Studio Repository (https://github.com/rhasspy/piper-recording-studio/tree/master/prompts) simel explanations is that documetnation how to prepare promts is not quite clear, and I am not sure how to organize them properly. My intention is to move all thcv into https://github.com/rhasspy/piper-recording-studio/tree/master/prompts/ after it is cleared out it this kind of prompt organization is acceptable.
+
+I did ask (https://github.com/rhasspy/piper-recording-studio/issues/17) but got no repsponse. So, not to llose time, I created this repository so phrases can be created and collected until it is decided to move it to Piper Recording Studio Repository.
+
 ## Files organisation
 
 /Serbian (Serbia)_rs_SR  - ready made prompts
@@ -14,19 +18,19 @@ Feel free to join!
 
 You can edit existing ODS files or create new ones. The first column is reserved for ID and second is for actual prompt text in Serbian Cyrillic.
 
-Make sure ID is unique for whole language, not just current file. Use cell formula to combine prefix with row number to create ID. Do not insert rows once data is exported to text file as taht would change IDćs for prompts. Only add propmts as new rows at the bottom.
+Make sure ID is unique for whole language, not just current file. Use cell formula to combine prefix with row number to create ID. Do not insert rows once data is exported to text file as that would change ID's for prompts. Only add prompts as new rows at the bottom.
 
-Once ODS file is prepared export it in CSV format, un UTF-8, tab delimited nad with no quotes for cells. Saved file name should have TXT extension and placed in /Serbian (Serbia)_rs_SR directory.
+Once ODS file is prepared export it in CSV format, un UTF-8, tab delimited nad with no quotes for cells. Saved file name should have TXT extension and placed in /Serbian (Serbia)_rs_SR directory. When you update rpository, please update both ODS and CSV file at the same time.
 
-If you creaste themed prompts create file prefixed with theme name. If more files would be created then create subdirectory to store them.
+If you create themed prompts create file prefixed with theme name. If more files would be created then create subdirectory to store them.
 
-Do not enter more that 200 prompts in one file. Jsu create another file with unique prefix. feel free to use some numbering scheme.
+Do not enter more that 200 prompts in one file. Just create another file with unique prefix. Feel free to use some numbering scheme.
 
-For prompts that are generic (not themed) use IDs containing 10 numbers. File name should contain first prompt id which is in a file and first prompt id increased by 200 (as file should contain no mre than 200 entries). Example: 0000000000-0000000200.ods. Put these files in /ods directory. 
+For prompts that are generic (not themed) use IDs containing 10 numbers. File name should contain first prompt id which is in a file and first prompt id increased by 200 (as file should contain no more than 200 entries). Example: 0000000000-0000000200.ods. Put these files in /ods directory. 
 
-Do not edit existing files. Just create another one by choosing the fist free ID number, instead.
+Do not edit existing files. Just create another one by choosing the first free ID number, instead.
 
-For thematic files, you cann add to existing thematic file and there is free rows. If there is no room, create file with same name just add number suffix.
+For thematic files, you can add to existing thematic file if there is space (meaannig there is less than 200 rows in a file). If there is no room, create file with same name just add number suffix.
 
 
 ## Copyright (absence of)
