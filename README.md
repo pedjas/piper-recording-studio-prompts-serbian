@@ -8,7 +8,7 @@ Feel free to join!
 
 If you are asking why this is not part of Piper Recording Studio Repository (https://github.com/rhasspy/piper-recording-studio/tree/master/prompts) simel explanations is that documetnation how to prepare promts is not quite clear, and I am not sure how to organize them properly. My intention is to move all thcv into https://github.com/rhasspy/piper-recording-studio/tree/master/prompts/ after it is cleared out it this kind of prompt organization is acceptable.
 
-I did ask (https://github.com/rhasspy/piper-recording-studio/issues/17) but got no repsponse. So, not to llose time, I created this repository so phrases can be created and collected until it is decided to move it to Piper Recording Studio Repository.
+I did ask (https://github.com/rhasspy/piper-recording-studio/issues/17) but got no proper response. So, not to l0ose time, I created this repository so prompts can be created and collected until it is decided to move all of this to Piper Recording Studio Repository.
 
 ## Files organisation
 
