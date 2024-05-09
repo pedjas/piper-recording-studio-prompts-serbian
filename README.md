@@ -14,7 +14,7 @@ I did ask (https://github.com/rhasspy/piper-recording-studio/issues/17) but got 
 
 ## Files organisation
 
-/Serbian (Serbia)_rs_SR  - ready made prompts
+/Serbian (Serbia)_rs-SR  - ready made prompts
 
 /ods - ODS files (OpenOffice Calc, LibreOffice Calc) that contain definitions of prompts. Makes generating IDs easier.
 
